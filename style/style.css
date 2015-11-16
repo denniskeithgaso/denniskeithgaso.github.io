@@ -1,0 +1,21 @@
+body{
+    font-family: Arial;
+}
+.content{
+    width: 50%;
+    margin-left: 25%;
+}
+#name{
+    text-align: center;
+    font-size: 2vw;
+    font-weight: bold;
+}
+li{
+    list-style-type: disc;
+}
+h3{
+    font-size: 1.5vw;
+}
+ul{
+    font-size: 1.3vw;
+}
